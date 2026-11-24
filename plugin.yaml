@@ -7,5 +7,5 @@ requires_hermes: ">=0.23.3"
 requires_env:
   - name: EXAONE_API_KEY
     description: EXAONE API Platform API key
-    url: https://exaone.ai/
+    url: https://docs.exaone.ai/en/docs/overview
     secret: true

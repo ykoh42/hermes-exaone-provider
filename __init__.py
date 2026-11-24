@@ -36,7 +36,7 @@ register_provider(ExaoneProfile(
     name="exaone",
     display_name="EXAONE API Platform",
     description="K-EXAONE models via the EXAONE API Platform",
-    signup_url="https://exaone.ai/",
+    signup_url="https://docs.exaone.ai/en/docs/overview",
     env_vars=("EXAONE_API_KEY", "EXAONE_BASE_URL"),
     base_url="https://api.exaone.ai/v1",
     auth_type="api_key",
